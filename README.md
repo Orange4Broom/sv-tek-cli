@@ -1,5 +1,5 @@
 #### About:
-- Just a program that will print you some output in cli
+- Just a program that will print you some output about current nameday in cli
 
 	| Output in cli |
 	| ----- | 
