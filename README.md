@@ -1,6 +1,6 @@
 #### About:
 - Just a program that will print you some output in cli
-- 
+
 	| Output in cli |
 	| ----- | 
 	| Current day |
