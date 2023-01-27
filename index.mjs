@@ -1,5 +1,4 @@
 import fetch from "node-fetch";
-import readline from "readline";
 import inquirer from "inquirer";
 
 const fetchData = async () => {
@@ -15,8 +14,6 @@ const fetchData = async () => {
     input: process.stdin,
     output: process.stdout,
     });   
-
-    let userName = "";
     
     const showMenu = () => {
         inquirer
