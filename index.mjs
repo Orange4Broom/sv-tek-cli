@@ -1,5 +1,6 @@
 import fetch from "node-fetch";
 import inquirer from "inquirer";
+import readline from "readline";
 
 const fetchData = async () => {
     const req = await fetch('https://svatkyapi.cz/api/day');
