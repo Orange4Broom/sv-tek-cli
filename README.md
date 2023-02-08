@@ -8,7 +8,7 @@
 	| Nameday name |
 
 #### Install:
-`clone https://github.com/Orange4Broom/svatek-cli.git`
+`git clone https://github.com/Orange4Broom/svatek-cli.git`
 `cd svatek-cli`
 `npm i`
 
